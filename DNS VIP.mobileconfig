@@ -22,7 +22,7 @@
 				</dict>
 			</array>
 			<key>PayloadDisplayName</key>
-			<string>Chặn thu hồi ( Chặn QC ) ✅</string>
+			<string>( CHẶN QUẢNG CÁO ) ✅</string>
 			<key>PayloadIdentifier</key>
 			<string>vevrl9air2.cloudflare-gateway.com.profile</string>
 			<key>PayloadType</key>
@@ -64,7 +64,7 @@
 				</dict>
 			</array>
 			<key>PayloadDisplayName</key>
-			<string>Chặn thu hồi ( Bỏ chặn QC ) ✅</string>
+			<string>( KHÔNG CHẶN QUẢNG CÁO ) ✅</string>
 			<key>PayloadIdentifier</key>
 			<string>chauphong.bio.link.profile</string>
 			<key>PayloadType</key>
@@ -296,7 +296,7 @@
 	<key>PayloadIdentifier</key>
 	<string>khoindvn.cloudflare.warp.com.profile</string>
 	<key>PayloadOrganization</key>
-	<string>Chặn thu hồi chứng chỉ</string>
+	<string>CÀI APP VÀ CHẶN QC</string>
 	<key>PayloadScope</key>
 	<string>User</string>
 	<key>PayloadType</key>
